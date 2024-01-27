@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Sequlize
 
 This project was bootstrapped with [Sequlize](#Sequlize).
 
