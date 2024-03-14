@@ -1,6 +1,6 @@
 # Getting Started with Sequlize
 
-This project was bootstrapped with [Sequlize](#Sequlize).
+This is sequlize ORM for MYSQL.
 
 ## Available Scripts
 
