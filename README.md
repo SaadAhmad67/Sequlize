@@ -6,7 +6,7 @@ This is sequlize ORM for MYSQL.
 
 In the project directory, you can run:
 
-### `npm start`
+
 
 
 
